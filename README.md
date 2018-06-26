@@ -9,7 +9,7 @@ The raw data is called results and should be in a file on your desktop
 
 We will be using the Data cleaning with Pandas-workbook to start with - a complete version is in the repo in case you get into trouble
 
-## Class 2##
+## Class 2
 In the later class we're going to be reading in our new clean data file, interrogating our data and visualising our results
 
 ### Contact me
